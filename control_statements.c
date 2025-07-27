@@ -16,6 +16,7 @@ int main()
 		printf("negative");
 	}
 	return 0;
+	*/
 	
 	//FIND A CHAR IS OWEL OR NOT
 	char b;
@@ -29,7 +30,7 @@ int main()
 	{
 		printf("not owel\n");
 	}
-	*/
+	
 
 
 }
